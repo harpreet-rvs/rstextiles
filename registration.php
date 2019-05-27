@@ -5,6 +5,6 @@
  */
 \Magento\Framework\Component\ComponentRegistrar::register(
     \Magento\Framework\Component\ComponentRegistrar::THEME,
-    'frontend/stheme/rstextiles',
+    'frontend/custome/mtheme',
     __DIR__
 );
